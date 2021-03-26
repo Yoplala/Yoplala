@@ -21,4 +21,5 @@ I am currently looking for a job!
 
 ## Derniers articles de mon [blog](https://yoplala.github.io/)
 <!-- BLOG-POST-LIST:START -->
+- [Pourquoi le développement front-end ?](https://yoplala.github.io//pourquoi/)
 <!-- BLOG-POST-LIST:END -->
