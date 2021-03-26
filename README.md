@@ -9,5 +9,6 @@
 
 
 Skills: HTML / CSS / JS
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoplala)](https://github.com/anuraghazra/github-readme-stats)
 
