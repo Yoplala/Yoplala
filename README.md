@@ -17,6 +17,8 @@ I am currently looking for a job!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samuel-marseille/)
 
-# [My blog](https://yoplala.github.io/)
+
+
+## Derniers articles de mon [blog](https://yoplala.github.io/)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
