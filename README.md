@@ -9,7 +9,7 @@ But also:
 
 
 #### Skills:
-|    Test       |       Test     |  
+|    -      |       -    |  
 | ------------: |  :------------ | 
 | 1 Online      |        1       | 
 | Line 2        |        2       | 
