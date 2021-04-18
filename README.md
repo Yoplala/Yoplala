@@ -9,15 +9,17 @@ But also:
 
 
 #### Skills:
-|    -      |       -    |  
-| ------------: |  :------------ | 
-| 1 Online      |        1       | 
-| Line 2        |        2       | 
-| 3 Online      |        3       |
 
-Markup languages	      HTML • XML* 
-Programming languages  CSS • JavaScript
-Frameworks and libraries Bootstrap • jQuery • Vue.js* • React.js*
+|-|-|  
+|-:|:-| 
+| Markup languages          | HTML • XML* | 
+| Programming languages     | CSS • JavaScript | 
+| Frameworks and libraries  | Frameworks and libraries |
+|
+
+	       
+  
+ 
 Various 			                API (intégration) • Jasmine (tests) • JSDoc • JSON • Webpack*
 CMS			                  WordPress • SPIP*
 Database	        MySQL
