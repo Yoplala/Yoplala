@@ -1,16 +1,16 @@
 ### Hi there 👋, I'm Yoplala (Samy)
 
+
 #### Front-end developer from Brussels!
 
 But also:
 - 😻 A Crazy Cats Dad! 
 - 🐲 A fiction addict (books, series, video games)!
-- 
 
 
 #### Skills:
 
-|-|-|  
+| | |  
 |-:|:-| 
 | Markup languages          | HTML • XML* | 
 | Programming languages     | CSS • JavaScript | 
