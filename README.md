@@ -8,7 +8,7 @@
   - 🐲 A fiction addict (books, series, video games)!
 
 
-#### Skills:
+### Skills:
 
 | 				| 								|  
 | -:				| :- 								| 
