@@ -20,10 +20,10 @@
 | **Database**	        	| MySQL								|
 | **Development tools**    	| VSCodium • Notepad++ • npm • GitHub • git*			|
 | **Others**		        | GIMP • UML • Gestion de projet (en cascade et agile)		|
-| * | still learning |
+| * | *still learning* |
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoplala)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoplala&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Derniers articles de mon [blog](https://yoplala.github.io/)
