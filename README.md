@@ -7,6 +7,7 @@ But also:
 - 😻 A Crazy Cats Dad! 
 - 🐲 A fiction addict (books, series, video games)!
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samuel-marseille/)
 
 #### Skills:
 
@@ -14,20 +15,16 @@ But also:
 | -:				| :- 								| 
 | **Markup languages**          | **HTML** • XML* 						| 
 | **Programming languages**     | **CSS** • **JavaScript** 					| 
-| **Frameworks and libraries**  | Frameworks and libraries 					|
-| **Various** 			| API (intégration) • Jasmine (tests) • JSDoc • JSON • Webpack* |
+| **Frameworks and libraries**  | Bootstrap • jQuery • Vue.js* • React.js* 					|
+| **Various** 			| API (intégration) • Jasmine • JSDoc • JSON • Webpack* |
 | **CMS**		        | **WordPress** • SPIP*						|
 | **Database**	        	| MySQL								|
 | **Development tools**    	| VSCodium • Notepad++ • npm • GitHub • git*			|
 | **Others**		        | GIMP • UML • Gestion de projet (en cascade et agile)		|
                               	  * still learning
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoplala)](https://github.com/anuraghazra/github-readme-stats)
-
-
-I am currently looking for a job!
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samuel-marseille/)
 
 
 
