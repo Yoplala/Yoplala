@@ -7,7 +7,6 @@ But also:
 - 😻 A Crazy Cats Dad! 
 - 🐲 A fiction addict (books, series, video games)!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samuel-marseille/)
 
 #### Skills:
 
@@ -25,7 +24,6 @@ But also:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoplala)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ## Derniers articles de mon [blog](https://yoplala.github.io/)
