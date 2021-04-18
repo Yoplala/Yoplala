@@ -2,13 +2,28 @@
 
 #### Front-end developer from Brussels!
 
+But also:
+- 😻 A Crazy Cats Dad! 
+- 🐲 A fiction addict (books, series, video games)!
+- 
 
-- 🌱 I’m currently learning Vue.js / React.js 
-- ⚡ Fun fact: I'm a Crazy Cats Dad! 
 
+#### Skills:
 
+| ------------: |: ------------- | 
+| 1 Online      |        1       | 
+| Line 2        |        2       | 
+| 3 Online      |        3       |
 
-Skills: HTML / CSS / JS / Wordpress
+Markup languages	      HTML • XML* 
+Programming languages  CSS • JavaScript
+Frameworks and libraries Bootstrap • jQuery • Vue.js* • React.js*
+Various 			                API (intégration) • Jasmine (tests) • JSDoc • JSON • Webpack*
+CMS			                  WordPress • SPIP*
+Database	        MySQL
+Development tools    VSCodium • Notepad++ • npm • GitHub • git*
+Others		                GIMP • UML • Gestion de projet (en cascade et agile)
+                              * still learning
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoplala)](https://github.com/anuraghazra/github-readme-stats)
 
