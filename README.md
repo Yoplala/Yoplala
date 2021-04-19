@@ -14,7 +14,7 @@
 
 | 				| 								|  
 | -:				| :- 								| 
-| **Markup languages**          | **HTML** • XML* 						| 
+| **Markup languages**          | **HTML** • Markdown • XML* 						| 
 | **Programming languages**     | **CSS** • **JavaScript** 					| 
 | **Frameworks and libraries**  | Bootstrap • jQuery • Vue.js* • React.js* 					|
 | **Various** 			| API (intégration) • Jasmine • JSDoc • JSON • Webpack* |
