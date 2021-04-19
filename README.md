@@ -1,11 +1,13 @@
-## Hi there 👋, I'm Yoplala (Samy)
+## Hi there 🖖, I'm Yoplala (Samy)
 
 
-* Front-end developer from Brussels!
+* Front-end developer from Brussels! ([LinkedIn](https://www.linkedin.com/in/samuel-marseille/))
 
 * But also:
-  - 😻 A Crazy Cats Dad! 
-  - 🐲 A fiction addict (books, series, video games)!
+  - 😻 Crazy Cats Dad! 
+  - 🐲 Fiction addict (books, series, video games)!
+  - 🥰 Dwarf Fortress Lover!
+  - 🤘 Moderator on [La Confrérie des Traducteurs](https://www.confrerie-des-traducteurs.fr/)!
 
 
 ### Skills:
