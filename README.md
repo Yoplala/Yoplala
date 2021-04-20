@@ -6,7 +6,7 @@
 * But also:
   - 😻 Crazy Cats Dad! 
   - 🐲 Fiction addict (books, series, video games)!
-  - 🥰 Dwarf Fortress Lover!
+  - 🥰 [Dwarf Fortress](https://www.bay12games.com/dwarves/) Lover!
   - 🤘 Moderator on [La Confrérie des Traducteurs](https://www.confrerie-des-traducteurs.fr/)!
 
 
