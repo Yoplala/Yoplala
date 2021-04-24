@@ -30,5 +30,6 @@
 
 ## Derniers articles de mon [blog](https://yoplala.github.io/)
 <!-- BLOG-POST-LIST:START -->
+- [Algie vasculaire de la face](https://yoplala.github.io//Algie-vasculaire-de-la-face/)
 - [Réorientation professionnelle dans le développement web](https://yoplala.github.io//R%C3%A9orientation-professionnelle-dans-le-d%C3%A9veloppement-web/)
 <!-- BLOG-POST-LIST:END -->
