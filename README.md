@@ -30,5 +30,5 @@
 
 ## Derniers articles de mon [blog](https://yoplala.github.io/)
 <!-- BLOG-POST-LIST:START -->
-- [Pourquoi le développement front-end ?](https://yoplala.github.io//pourquoi/)
+- [Réorientation professionnelle dans le développement web](https://yoplala.github.io//R%C3%A9orientation-professionnelle-dans-le-d%C3%A9veloppement-web/)
 <!-- BLOG-POST-LIST:END -->
